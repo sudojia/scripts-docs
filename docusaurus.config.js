@@ -17,8 +17,7 @@ const config = {
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
-    // 告诉搜索引擎不要爬取你的站点
-    noIndex: true,
+    noIndex: false,
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
