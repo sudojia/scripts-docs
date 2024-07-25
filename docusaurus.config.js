@@ -78,7 +78,7 @@ const config = {
                 items: [
                     {
                         type: 'docSidebar',
-                        label: '文档',
+                        label: '快速开始',
                         sidebarId: 'scripts'
                     },
 
