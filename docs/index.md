@@ -1,5 +1,11 @@
+---
+title: 项目介绍
+sidebar_position: 1
+---
+
 ![scripts](https://socialify.git.ci/sudojia/scripts/image?font=Rokkitt&forks=1&issues=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto)
 
+:::info
 
 在这个快节奏的世界中，我们每天都在与时间赛跑，而每日签到任务常常成为我们日程中不可或缺的一部分。
 
@@ -10,6 +16,8 @@
 为了解决这一问题，在无聊时开发了一个基于青龙面板的每日签到自动化脚本。
 
 释放双手，让技术来完成那些重复且耗时的任务，而您可以将宝贵的时间用于更加重要和创造性的活动上。
+
+:::
 
 ## 💬讨论交流
 
