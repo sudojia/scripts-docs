@@ -8,6 +8,8 @@ sidebar_position: 4
 
 
 
+- 2024-07-27 新增[蜜雪冰城](/docs/list/miniProgram/mxbc/)每日签到
+
 - 2024-07-22
 
   - 所有脚本添加随机 `User-Agent`
