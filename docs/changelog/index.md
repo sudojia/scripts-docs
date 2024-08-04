@@ -8,6 +8,18 @@ sidebar_position: 4
 
 
 
+- 2024-08-03 更新[七彩虹商城](/docs/list/miniProgram/colorful/)**新版**签到及部分任务接口
+
+- 2024-08-01 新增[TILTA影像城小程序](/docs/list/miniProgram/tilta/)每日签到及部分任务
+
+- 2024-07-31 新增[水费易](/docs/list/public/shuifei/)签到
+
+- 2024-07-30 
+
+  - 玩拍俱乐部修复最后一次抽奖出现异常的问题
+
+  - 兼容青龙旧版中文名称的显示
+
 - 2024-07-27 新增[蜜雪冰城](/docs/list/miniProgram/mxbc/)每日签到
 
 - 2024-07-22
