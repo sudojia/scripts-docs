@@ -8,6 +8,8 @@ sidebar_position: 4
 
 
 
+- 2024-08-07 新增[植白说官方商城](/docs/list/miniProgram/kozbs/)每日签到
+
 - 2024-08-03 更新[七彩虹商城](/docs/list/miniProgram/colorful/)**新版**签到及部分任务接口
 
 - 2024-08-01 新增[TILTA影像城小程序](/docs/list/miniProgram/tilta/)每日签到及部分任务
