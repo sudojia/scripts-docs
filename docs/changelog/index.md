@@ -6,7 +6,11 @@ sidebar_position: 4
 <details>
 <summary>点击展开</summary>
 
+- 2024-08-16
 
+  - 新增海澜之家-游戏脚本
+
+  - 移除茶百道脚本
 
 - 2024-08-07 新增[植白说官方商城](/docs/list/miniProgram/kozbs/)每日签到
 
