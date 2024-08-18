@@ -1,6 +1,6 @@
 ---
 title: 海澜之家
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 脚本名：`sudojia_hlzj_game.js`
