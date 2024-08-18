@@ -7,6 +7,24 @@ sidebar_position: 2
 
 [【前往官网】](https://juejin.cn/)
 
+:::warning
+
+在 8/6 号的时候，官方已将我的 3 个号封禁，故掘金已不再维护更新！
+
+:::
+
+:::info
+
+新版掘金已适配，url 多了个验证，所以要多抓一个
+
+手动签到完之后，找到 `https://api.juejin.cn/growth_api/v1/check_in` 然后获取 url 的uuid=123456&spider=0&msToken=xxxxxx&a_bogus=xxxxxx
+
+
+
+另外，请勿再提掘金相关的 Issues
+
+:::
+
 ## 奖励说明
 
 1. 每日签到获得矿石、矿石可用于兑换实物
@@ -23,13 +41,13 @@ sidebar_position: 2
 
 ## 变量说明
 
-|       Env       |      Value      |         Remark          |
-| :-------------: | :-------------: | :---------------------: |
-| `JUEJIN_COOKIE` | 稀土掘金 Cookie | 多账号用 `&` 或换行隔开 |
+|       Env       |                           Value                           |         Remark          |
+| :-------------: | :-------------------------------------------------------: | :---------------------: |
+| `JUEJIN_COOKIE` | Cookie#uuid=123456&spider=0&msToken=xxxxxx&a_bogus=xxxxxx | 多账号用 `&` 或换行隔开 |
 
 ## 获取说明
 
-打开[掘金社区](https://juejin.cn/) 按 F12 -> 选择 Application -> 点击 Cookies -> 只要 `sessionid` 的值
+打开[稀土掘金](https://juejin.cn/) 按 F12 -> 选择 Application -> 点击 Cookies -> 只要 `sessionid` 的值
 
 ![image](https://img.gugu.ovh/i/2024/06/10/173932.webp)
 
