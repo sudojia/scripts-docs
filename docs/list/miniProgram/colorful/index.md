@@ -32,11 +32,6 @@ sidebar_position: 5
 
 :::
 
-1. 抓包 URL：`https://shop.skycolorful.com:45677/api/User/DecryptPhoneNumber` 获取请求体的 JSON 数据，全选复制
-2. 到 [JSON 在线工具网站](https://www.json.cn/jsonzip/) 粘贴 Json 并压缩
-
-<img src="https://pic.rmb.bdstatic.com/bjh/240824/982d4ea0776c4c81d5b0642143107ccc7901.png" alt="image"/>
-
 :::warning
 
 填写变量时
@@ -47,6 +42,15 @@ JSON 必须是一行，不能换行 不能换行 不能换行
 
 JSON 必须是一行，不能换行 不能换行 不能换行
 
+所以就需要到 JSON 在线工具网站进行压缩成一行
+
 除了多账号
 
+多账号还是老样子换行或 & 隔开
+
 :::
+
+1. 抓包 URL：`https://shop.skycolorful.com:45677/api/User/DecryptPhoneNumber` 获取请求体的 JSON 数据，全选复制
+2. 到 [JSON 在线工具网站](https://www.json.cn/jsonzip/) 粘贴 Json 并压缩
+
+<img src="https://pic.rmb.bdstatic.com/bjh/240824/982d4ea0776c4c81d5b0642143107ccc7901.png" alt="image"/>
