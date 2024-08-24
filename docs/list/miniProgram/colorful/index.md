@@ -16,14 +16,37 @@ sidebar_position: 5
 
 ## 变量说明
 
-|       Env        |              Value              |         Remark          |
-| :--------------: | :-----------------------------: | :---------------------: |
-| `COLORFUL_TOKEN` | `Authorization#X-Authorization` | 多账号用 `&` 或换行隔开 |
+|       Env        |                           Value                           |         Remark          |
+| :--------------: | :-------------------------------------------------------: | :---------------------: |
+| `COLORFUL_TOKEN` | `{"OpenId":"xxx","Iv":"xxx","EncryptedData":"iYC3xFxxx"}` | 多账号用 `&` 或换行隔开 |
 
 ## 获取说明
 
-抓包 Host：`https://shopapi.skycolorful.com`  获取请求头 `Authorization` 和 `X-Authorization` 的值，同时删掉 `Bearer`
+:::warning
 
-`Authorization` 和 `X-Authorization` 用 # 分割
+要退出登录后打开抓包再登录才会有此 URL
 
-`Authorization` 必须在第一位，有顺序要求！
+要退出登录后打开抓包再登录才会有此 URL
+
+要退出登录后打开抓包再登录才会有此 URL
+
+:::
+
+1. 抓包 URL：`https://shop.skycolorful.com:45677/api/User/DecryptPhoneNumber` 获取请求体的 JSON 数据，全选复制
+2. 到 [JSON 在线工具网站](https://www.json.cn/jsonzip/) 粘贴 Json 并压缩
+
+<img src="https://pic.rmb.bdstatic.com/bjh/240824/982d4ea0776c4c81d5b0642143107ccc7901.png" alt="image"/>
+
+:::warning
+
+填写变量时
+
+JSON 必须是一行，不能换行 不能换行 不能换行
+
+JSON 必须是一行，不能换行 不能换行 不能换行
+
+JSON 必须是一行，不能换行 不能换行 不能换行
+
+除了多账号
+
+:::

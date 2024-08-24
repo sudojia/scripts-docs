@@ -1,6 +1,6 @@
 ---
 title: 皮皮世界
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 脚本名：`sudojia_ppworld.js`

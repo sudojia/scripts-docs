@@ -18,8 +18,8 @@ sidebar_position: 5
 
 |       Env        |          Value          |         Remark          |
 | :--------------: | :---------------------: | :---------------------: |
-|   `HZHFP_TOKEN`  |    `Authorization`      |   多账号用 `&` 或换行隔开 |
+|   `HZHFP_TOKEN`  | `eyJ0exxxxxxxxxxx` |   多账号用 `&` 或换行隔开 |
 
 ## 获取说明
 
-抓包 Host: `https://api.hzyxhfp.com` 获取请求头 `Authorization` 并且删掉 `Bearer`
+抓包 Host：`https://api.hzyxhfp.com` 获取请求头 `Authorization` 并且删掉 `Bearer`

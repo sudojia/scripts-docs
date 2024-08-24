@@ -1,6 +1,6 @@
 ---
-title: OPPO商城APP
-sidebar_position: 1
+title: OPPO商城
+sidebar_position: 2
 ---
 
 脚本名：`sudojia_opposhop.js`
@@ -12,14 +12,13 @@ sidebar_position: 1
 
 ## 变量说明
 
-|        Env        |    Value     |          说明           |
-| :---------------: | :----------: | :---------------------: |
-| `OPPOSHOP_COOKIE` |   `Cookie`   | 多账号用 `&` 或换行隔开 |
-|   :----------:    |  :--------:  | :---------------------: |
-| `OPPO_USER_AGENT` | `User-Agent` | 多账号用 `&` 或换行隔开 |
+|        Env        |                    Value                    |          说明           |
+| :---------------: | :-----------------------------------------: | :---------------------: |
+| `OPPOSHOP_COOKIE` |                  `Cookie`                   | 多账号用 `&` 或换行隔开 |
+| `OPPO_USER_AGENT` | `Mozilla/5.0 (Linux; Android 10; xxxxxxxxx` |         单一性          |
 
 ## 获取说明
 
-- **Mobile 端**：
+打开抓包、进入我的 - 签到任务，才会出现此 URL
 
-  抓包 URL：`https://hd.opposhop.cn/api/cn/oapi/users/web/member/check?unpaid=0` 获取 `Cookie` 和 `User-Agent`
+抓包 URL：`https://hd.opposhop.cn/api/cn/oapi/users/web/member/check?unpaid=0` 获取 `Cookie` 和 `User-Agent`
