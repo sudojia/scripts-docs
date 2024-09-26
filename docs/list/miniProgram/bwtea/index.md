@@ -18,8 +18,8 @@ sidebar_position: 5
 
 |      Env       |   Value    |         Remark          |
 | :------------: | :--------: | :---------------------: |
-| `BW_TEA_TOKEN` | `xxxxxxxx` | 多账号用 `&` 或换行隔开 |
+| `BW_TEA_TOKEN` | `token#id` | 多账号用 `&` 或换行隔开 |
 
 ## 获取说明
 
-抓包 Host：`webapi2.qmai.cn`  获取请求头 `qm-user-token` 的值
+抓包 URL：`https://webapi2.qmai.cn/web/seller/oauth/flash-sale-login` 在响应体 **Json** 找到 **token** 和 *user* **下**的 **id**, 用 # 分割
