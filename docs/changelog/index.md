@@ -80,7 +80,7 @@ sidebar_position: 4
 - 2024-06-29
   - 新增多合一积分详情
   - 新增 `check_sijishe.sh` 主要针对司机社，检测在多个备选的网站中，哪一个在当前网络条件下访问的速度最快。
-- 2024-06-28 移除司机社 GitHub Actions 运行，详见：[💡脚本食用指南#司机社](https://github.com/sudojia/scripts/wiki/%F0%9F%92%A1%E8%84%9A%E6%9C%AC%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97#%E5%8F%B8%E6%9C%BA%E7%A4%BE)
+- 2024-06-28 移除司机社 GitHub Actions 运行
 - 2024-06-23 移除全棉时代系列
 - 2024-06-20 新增天天种棉花游戏
 - 2024-06-19

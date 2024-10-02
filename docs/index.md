@@ -3,7 +3,7 @@ title: 项目介绍
 sidebar_position: 1
 ---
 
-![scripts](https://socialify.git.ci/sudojia/scripts/image?font=Rokkitt&forks=1&issues=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto)
+![scripts](https://socialify.git.ci/sudojia/AutoTaskScript/image?font=Rokkitt&forks=1&issues=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto)
 
 :::info
 
@@ -33,8 +33,8 @@ sidebar_position: 1
 
 ## ⭐Star 数
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sudojia/scripts&type=Date)](https://api.star-history.com/svg?repos=sudojia/scripts&type=Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sudojia/AutoTaskScript&type=Date)](https://api.star-history.com/svg?repos=sudojia/AutoTaskScript&type=Date)
 
 ## ⚖️License
 
-[GPLv3](https://github.com/sudojia/scripts/blob/script/LICENSE) licensed.
+[GPLv3](https://github.com/sudojia/AutoTaskScript/blob/script/LICENSE) licensed.

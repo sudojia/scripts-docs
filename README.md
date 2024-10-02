@@ -1,3 +1,3 @@
 ## 脚本文档
 
-https://github.com/sudojia/scripts
+https://github.com/sudojia/AutoTaskScript

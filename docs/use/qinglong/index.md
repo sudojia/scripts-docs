@@ -21,6 +21,7 @@ sidebar_position: 1
    tunnel
    ws
    got
+   init-sudojia
    ```
 
    ![image](https://pic.rmb.bdstatic.com/bjh/240723/4139e8f0db8ec49c95d8aa56f0cdc6e78406.png)
@@ -28,7 +29,7 @@ sidebar_position: 1
 2. 在订阅管理创建订阅并在名称处粘贴拉库命令即可
 
    ```shell
-   ql repo https://github.com/sudojia/scripts.git "sudojia_" "" "utils" "script" "js"
+   ql repo https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils" "script" "js"
    ```
 
    `cron` 和名称随意
@@ -38,12 +39,12 @@ sidebar_position: 1
    命令解释：
 
    ```shell
-   ql repo https://github.com/sudojia/scripts.git "白名单" "黑名单" "依赖文件" "分支" "文件后缀"
+   ql repo https://github.com/sudojia/AutoTaskScript.git "白名单" "黑名单" "依赖文件" "分支" "文件后缀"
    ```
 
-   **白名单**：指要拉取的脚本，例如：amx|kuro（多个用 `|` 隔开）
+   **白名单**：指要拉取的脚本（多个用 `|` 隔开）
 
-   **黑名单**：指要忽略的脚本，例如：colorful|tebu（多个用 `|` 隔开）
+   **黑名单**：指要忽略的脚本（多个用 `|` 隔开）
 
    **依赖文件**：固定 `utils`
 
