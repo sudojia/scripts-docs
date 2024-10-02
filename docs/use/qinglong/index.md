@@ -29,7 +29,7 @@ sidebar_position: 1
 2. 在订阅管理创建订阅并在名称处粘贴拉库命令即可
 
    ```shell
-   ql repo https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils" "script" "js"
+   ql repo https://github.com/sudojia/AutoTaskScript.git "sudojia_"
    ```
 
    `cron` 和名称随意
@@ -46,11 +46,11 @@ sidebar_position: 1
 
    **黑名单**：指要忽略的脚本（多个用 `|` 隔开）
 
-   **依赖文件**：固定 `utils`
+   **依赖文件**
 
-   **分支**：固定 `script`
+   **分支**
 
-   **文件后缀**：固定 `js`
+   **文件后缀**
 
    :::info
 
