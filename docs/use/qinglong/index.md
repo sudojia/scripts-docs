@@ -34,6 +34,20 @@ sidebar_position: 1
 
    `cron` 和名称随意
 
+   :::warning
+
+   如果是国内服务器拉库失败，可尝试以下链接拉库：
+
+   `ql repo https://gh-proxy.com/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+
+   `ql repo https://ghp.ci/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+
+   `ql repo https://git.886.be/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+
+   若以上反代链接失效，自行在谷歌搜关键词【GitHub文件加速】
+
+   :::
+
    ![image](https://pic.rmb.bdstatic.com/bjh/240723/13f815269652d6f3f896280ae651b1211516.png)
 
    命令解释：
