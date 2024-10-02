@@ -92,7 +92,7 @@ const config = {
                         position: 'right',
                     },
                     {
-                        href: 'https://github.com/sudojia/scripts',
+                        href: 'https://github.com/sudojia/AutoTaskScript',
                         label: 'GitHub',
                         position: 'right',
                     },
