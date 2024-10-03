@@ -6,6 +6,62 @@ sidebar_position: 4
 <details>
 <summary>点击展开</summary>
 
+- 2024-10-03
+
+
+  - 移除 Npm 包：`init-sudojia` （考虑到有些人环境特别不干净，亦或者国内 IP 又不会换加速源，换上之后可能还安装失败）故使用本地 `utils` 模块
+
+    当前目录结构：
+
+    ```markdown
+    /AutoTaskScript
+    ├── src
+    │   ├── client
+    │   │   └── 存放客户端类
+    │   ├── public
+    │   │   └── 存放公众号类
+    │   ├── web
+    │   │   └── 存放网页类
+    │   ├── wx_mini
+    │   │   └── 存放小程序类
+    │   ├── other
+    │   │   └── 存放辅助类，例如检测账号失效等
+    │   └── utils
+    │       └── 存放通用工具类
+    └── README.md
+    ```
+
+  - 新增茶友社区每日签到
+
+  - 新增爷爷不泡茶每日签到
+
+- 2024-10-02 调整项目目录结构
+
+  ```markdown
+  /AutoTaskScript
+  ├── src
+  │   ├── client
+  │   │   └── 存放客户端类
+  │   ├── public
+  │   │   └── 存放公众号类
+  │   ├── web
+  │   │   └── 存放网页类
+  │   ├── wx_mini
+  │   │   └── 存放小程序类
+  │   └── other
+  │       └── 存放辅助类，例如检测账号失效等
+  └── README.md
+  ```
+
+
+  - 更改仓库名：[AutoTaskScript](https://github.com/sudojia/AutoTaskScript)
+  - 打包 Npm 初始化依赖包：`init-sudojia`
+
+
+- 2024-10-01 
+
+  - OPPO商城添加变量【OPPO_ACTIVITY_IDS】#[OPPO Activity ID 获取](https://rh-docs.netlify.app/docs/list/client/opposhop/#%E8%8E%B7%E5%8F%96%E8%AF%B4%E6%98%8E)
+  - 新增薇诺娜专柜商城每日签到
 - 2024-09-30 新增多娇江山APP每日签到及任务列表
 - 2024-09-27 新增江淮卡友APP每日签到及部分任务
 - 2024-09-26 移除国乐酱酒脚本（改名叫国乾酱酒，使用的是有赞的模板框架）
@@ -17,7 +73,6 @@ sidebar_position: 4
 
   - 新增龙湖天街每日签到及抽奖
   - 修复和贴吧任务签到变量合并时长度出现错误的问题
-
 - 2024-09-16 优化完善SSPANEL面板机场签到
 - 2024-09-15 新增厚工坊每日签到及浏览任务获得酒币
 - 2024-09-14 新增香蕉视频每日签到及任务

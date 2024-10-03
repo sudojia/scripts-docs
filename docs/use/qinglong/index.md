@@ -29,7 +29,7 @@ sidebar_position: 1
 2. 在订阅管理创建订阅并在名称处粘贴拉库命令即可
 
    ```shell
-   ql repo https://github.com/sudojia/AutoTaskScript.git "sudojia_"
+   ql repo https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils"
    ```
 
    `cron` 和名称随意
@@ -38,11 +38,11 @@ sidebar_position: 1
 
    如果是国内服务器拉库失败，可尝试以下链接拉库：
 
-   `ql repo https://gh-proxy.com/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+   `ql repo https://gh-proxy.com/https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils"`
 
-   `ql repo https://ghp.ci/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+   `ql repo https://ghp.ci/https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils"`
 
-   `ql repo https://git.886.be/https://github.com/sudojia/AutoTaskScript.git "sudojia_"`
+   `ql repo https://git.886.be/https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils"`
 
    若以上反代链接失效，自行在谷歌搜关键词【GitHub文件加速】
 

@@ -31,6 +31,26 @@ sidebar_position: 1
 3. [【UCloud】开年上云，国外服务器2C4G30M新用户一年只需140，国内2C2G4M一年只需59](https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1xF794E400C078)
 4. [【华为云】普惠上云专区限时秒杀：2核2G2M，最低38/年](https://activity.huaweicloud.com/discount_area_v5/index.html)
 
+## 🗃项目架构
+
+```markdown
+/AutoTaskScript
+├── src
+│   ├── client
+│   │   └── 存放客户端类
+│   ├── public
+│   │   └── 存放公众号类
+│   ├── web
+│   │   └── 存放网页类
+│   ├── wx_mini
+│   │   └── 存放小程序类
+│   ├── other
+│   │   └── 存放辅助类，例如检测账号失效等
+│   └── utils
+│       └── 存放通用工具类
+└── README.md
+```
+
 ## ⭐Star 数
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sudojia/AutoTaskScript&type=Date)](https://api.star-history.com/svg?repos=sudojia/AutoTaskScript&type=Date)
