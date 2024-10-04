@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Routine Helper',
+    title: 'AutoTaskScript',
     tagline: '我的日常助手',
     favicon: 'img/favicon.ico',
 
@@ -67,7 +67,7 @@ const config = {
             // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
-                title: 'Routine Helper',
+                title: 'AutoTaskScript',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/logo.svg',
@@ -133,7 +133,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} ❤️<a href="/">Routine Helper</a>. All rights reserved.`,
+                copyright: `Copyright © ${new Date().getFullYear()} ❤️<a href="/">AutoTaskScript</a>. All rights reserved.`,
             },
             prism: {
                 theme: prismThemes.github,
