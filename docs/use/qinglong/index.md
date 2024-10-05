@@ -7,6 +7,8 @@ sidebar_position: 1
 
 安装完成后，访问面板地址即可。
 
+**注意**：青龙 Version：`≥2.17.x`
+
 ## 青龙配置
 
 1. 在依赖管理处创建依赖，依赖类型选择 `NodeJS` 并复制如下依赖，自动拆分选择 "是"
@@ -17,13 +19,11 @@ sidebar_position: 1
    download
    http-server
    moment
-   tough-cookie
    tunnel
-   ws
    got
-   init-sudojia
+   ws
    ```
-
+   
    ![image](https://pic.rmb.bdstatic.com/bjh/240723/4139e8f0db8ec49c95d8aa56f0cdc6e78406.png)
 
 2. 在订阅管理创建订阅并在名称处粘贴拉库命令即可
@@ -36,7 +36,7 @@ sidebar_position: 1
 
    :::warning
 
-   如果是国内服务器拉库失败，可尝试以下链接拉库：
+   如果是国内服务器拉库失败，可尝试以下反代链接拉库：
 
    `ql repo https://gh-proxy.com/https://github.com/sudojia/AutoTaskScript.git "sudojia_" "" "utils"`
 
@@ -60,11 +60,11 @@ sidebar_position: 1
 
    **黑名单**：指要忽略的脚本（多个用 `|` 隔开）
 
-   **依赖文件**
+   **依赖文件**：`utils` 项目运行所必需的框架依赖
 
-   **分支**
+   **分支**：拉取仓库的指定分支
 
-   **文件后缀**
+   **文件后缀**：要拉取的文件后缀，如 `js|py|sh|ts` 等
 
    :::info
 
