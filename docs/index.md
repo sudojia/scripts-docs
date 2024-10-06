@@ -22,7 +22,7 @@ sidebar_position: 1
 ## 💬讨论交流
 
 - [💬Telegram Group](https://t.me/v_script)
-- [🔔Telegram Channel](https://t.me/IiiiOOiiiiOO)
+- [🔔Telegram Channel](https://t.me/AutoTaskScript)
 
 ## 👍服务器推荐
 
