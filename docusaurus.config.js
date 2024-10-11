@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'AutoTaskScript',
-    tagline: '我的日常助手',
+    tagline: '自动化任务脚本',
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
@@ -70,7 +70,7 @@ const config = {
                 title: 'AutoTaskScript',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    src: 'img/logo.jpg',
                 },
                 items: [
                     {
