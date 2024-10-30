@@ -22,4 +22,4 @@ sidebar_position: 5
 
 ## 获取说明
 
-抓包 URL：`https://webapi2.qmai.cn/web/seller/oauth/flash-sale-login` 在响应体 **Json** 找到 **token** 和 *user* **下**的 **id**, 用 # 分割
+抓包 URL：`https://logger.qmai.cn/record.do` 在响应体 **Json** 找到 **userToken** 和 *userInfo* **下**的 **id**, 用 # 分割
