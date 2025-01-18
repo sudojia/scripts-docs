@@ -12,7 +12,7 @@ sidebar_position: 5
 1. 每日签到获得积分
 2. 积分可兑换护肤品
 
-<img src="https://bd.nuyoahbk.com/imgsrc/202408232210262.jpg!imggz" alt="image" height="750"/>
+<img src="https://i.111666.best/image/mkvxzHxAZjIskaha1bIFc1.png" alt="image" width="300"/>
 
 ## 变量说明
 

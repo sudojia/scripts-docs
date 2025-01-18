@@ -22,4 +22,4 @@ sidebar_position: 1
 
 ## 获取说明
 
-抓包 Host：`7.wawo.cc` 获取请求头 `authorization` 的值，并且删掉 `bearer`
+抓包 Host：`7.wawo.cc` 获取请求头 `AccessToken` 的值

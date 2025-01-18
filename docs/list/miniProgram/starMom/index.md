@@ -7,7 +7,11 @@ sidebar_position: 14
 
 微信小程序：`#小程序://星妈优选/c8Gx0xHeOxwrMUv`
 
+:::danger
+
 不建议跑，Token 基本两天失效
+
+:::
 
 ## 奖励说明
 

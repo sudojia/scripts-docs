@@ -7,14 +7,18 @@ sidebar_position: 3
 
 微信小程序：贝因美官网
 
+:::danger
+
+已知失效很快
+
+:::
+
 ## 奖励说明
 
 1. 每日签到获得贝星币
 2. 贝星币可兑换实物
 
 <img src="https://pic.rmb.bdstatic.com/bjh/240723/6ff3e6664047cd2deb079e69927ec18f722.png" alt="image" height="750"/>
-
-
 
 ## 变量说明
 

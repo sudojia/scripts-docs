@@ -12,7 +12,7 @@ sidebar_position: 5
 1. 每日签到获得海澜币
 2. 海澜币可兑换实物
 
-<img src="https://bd.nuyoahbk.com/imgsrc/202408161923914.png!imggz" alt="image" height="750"/>
+<img src="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIYvmeLxHvGg1RsD6n8whHySHw-SGnPAAJHvDEbaUVgRHNGdZ82qNoJAQADAgADeQADNgQ.png" alt="image" width="300"/>
 
 ## 变量说明
 

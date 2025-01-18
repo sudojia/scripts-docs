@@ -22,4 +22,4 @@ sidebar_position: 2
 
 ## 获取说明
 
-抓包 Host：`amxshop.yili.com` 获取请求头 `accesstoken` 的值
+抓包 Host：`https://wx-amxshop.msxapi.digitalyili.com` 获取请求头 `accesstoken` 的值
