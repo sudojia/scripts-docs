@@ -9,11 +9,13 @@ sidebar_position: 6
 
 每一份打赏都是我开发脚本的极大鼓励，也是我继续前进的动力
 
+当然，打赏完全基于您的个人意愿，我衷心希望您是因为发自内心的喜欢，才会选择这种方式来表达支持。
+
 :::
 
 :::warning
 
-前往打赏系统：https://beg.sudojia.us.kg
+前往全新的打赏系统：https://beg.sudojia.us.kg
 
 本页面不再记录
 
