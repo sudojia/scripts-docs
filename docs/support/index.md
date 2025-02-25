@@ -15,7 +15,7 @@ sidebar_position: 6
 
 :::warning
 
-前往全新的打赏系统：https://beg.baby.hidns.co
+前往全新的打赏系统：https://beg.atsc.us.kg
 
 本页面不再记录
 
