@@ -21,5 +21,3 @@ yarn-error.log*
 
 .idea
 run.sh
-
-package-lock.json
