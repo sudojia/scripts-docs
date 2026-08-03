@@ -13,13 +13,9 @@ sidebar_position: 6
 
 :::
 
-:::warning
-
-前往全新的打赏系统：https://beg.atsc.us.kg
-
-本页面不再记录
-
-:::
+|                             微信                             |                            支付宝                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://pic.rmb.bdstatic.com/bjh/240725/64352730d646ff37f7e1e9dba675ee959956.png" alt="image" height="200"/> | <img src="https://pic.rmb.bdstatic.com/bjh/240725/76f3b21ac37385a8601b9aa240971b8a9495.png" alt="image" height="200"/> |
 
 ## 打赏记录
 
