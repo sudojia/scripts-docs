@@ -133,7 +133,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} ❤️<a href="/">AutoTaskScript</a>. All rights reserved.`,
+                copyright: `Copyright © 2025-${new Date().getFullYear()} ❤️<a href="/">AutoTaskScript</a>. All rights reserved.`,
             },
             prism: {
                 theme: prismThemes.github,
